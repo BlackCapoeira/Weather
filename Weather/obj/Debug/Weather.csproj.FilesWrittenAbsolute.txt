@@ -1,0 +1,16 @@
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/Weather.App.xaml
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/Weather.Views.MainView.xaml
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/Weather.App.xaml.g.cs
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/Weather.Views.MainView.xaml.g.cs
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/Weather.dll.mdb
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/Weather.dll
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/Weather.dll
+/Users/CarlosF/Projects/Weather/Weather/obj/Debug/Weather.dll.mdb
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/Xamarin.Forms.Core.dll
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/Newtonsoft.Json.dll
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/System.Net.Http.dll
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/System.Net.Http.Extensions.dll
+/Users/CarlosF/Projects/Weather/Weather/bin/Debug/System.Net.Http.Primitives.dll

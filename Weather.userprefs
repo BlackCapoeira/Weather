@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A2F8A109-46D5-4534-9A8C-12A5A12C8BDB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Weather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0EE3C3E2-B7F8-4954-8DAE-DEB68DE82E11" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/Views/MainView.xaml">
+    <Files>
+      <File FileName="Weather/App.xaml.cs" Line="11" Column="44" />
+      <File FileName="Weather/Views/MainView.xaml" Line="15" Column="31" />
+      <File FileName="Weather/Views/MainView.xaml.cs" Line="14" Column="18" />
+      <File FileName="Weather/obj/Debug/Weather.Views.MainView.xaml.g.cs" Line="12" Column="18" />
+      <File FileName="Weather/ViewModels/Base/ViewModelBase.cs" Line="13" Column="10" />
+      <File FileName="Weather/ViewModels/Base/DelegateCommand.cs" Line="28" Column="38" />
+      <File FileName="Weather/Models/Weather.cs" Line="73" Column="18" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Weather/Services/WeatherService.cs" Line="41" Column="1" />
+      <File FileName="Weather/ViewModels/MainViewModel.cs" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Weather.Droid PreferredExecutionTarget="Android.Android_ARMv7a" />
+</Properties>
